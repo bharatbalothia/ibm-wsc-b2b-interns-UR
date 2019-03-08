@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # FlaskApp
 
-CRUD events
+Basic flask application to keep records of events organised by IBM in collaboration with colleges.
+Also Downloading those reports.
 ## Installation
 Falset
 
@@ -18,4 +18,3 @@ python app.py
 
 =======
 # Events-App
->>>>>>> 84bf749037c0de530d64354bac04239e8f475c3d
