@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlaskApp
 
 CRUD events
@@ -15,3 +16,6 @@ Environment needs:
 python app.py
 ```
 
+=======
+# Events-App
+>>>>>>> 84bf749037c0de530d64354bac04239e8f475c3d
